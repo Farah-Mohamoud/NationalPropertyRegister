@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.luulsolutions.luulchat",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "natpropreg",
+    "packageName": "com.luulsolutions.luulchat",
+    "packageFolder": "com/luulsolutions/luulchat",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDRjNDc2NTYyODExNmNlZmZlZmM2YWQ1NDg1M2ViYzU5NDVkYTNjMDVmMjI5MzQwYzM2ZjVhNWIyOGNkNDg1ZTg2ZDM1YmM1OTVjNjgzMWYwMDY0MGNiNzgzOTlhMWE4ZjEyMjBiNWYyZmM1NTkyY2E3MWE3MzBhNTNhMDM5MjE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1598688663156,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "it"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
